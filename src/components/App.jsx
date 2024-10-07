@@ -36,7 +36,7 @@ export const App = () => {
           <img
             className="absolute left-0 top-0 -z-20 w-full"
             src={bgDesktopDark}
-            alt=""
+            alt="Dark theme background"
           />
         </picture>
       ) : (
@@ -45,7 +45,7 @@ export const App = () => {
           <img
             className="absolute left-0 top-0 -z-20 w-full"
             src={bgDesktopLight}
-            alt=""
+            alt="Light theme background"
           />
         </picture>
       )}
